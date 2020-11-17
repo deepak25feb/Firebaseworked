@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435996756876",
+    "firebase_url": "https://authenticator-edfb3.firebaseio.com",
+    "project_id": "authenticator-edfb3",
+    "storage_bucket": "authenticator-edfb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435996756876:android:4a61a67c8fe4e961a464a9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435996756876-qbjpdi35b1h8do22k9ddm36iv2u2nol0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nvtHIFuofQC0D94jBEVRXDO0_rhXVAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435996756876-qbjpdi35b1h8do22k9ddm36iv2u2nol0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
